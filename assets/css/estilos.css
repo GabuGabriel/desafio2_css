@@ -1,0 +1,65 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: black;
+    background-image: url(../imgs/maurice-sahl-EfQgEyzzsBM-unsplash.jpg);
+    background-size: cover;
+}
+
+header {
+    height: 6em;
+    font-size: 2em;
+    padding: 2em;
+    text-align: left;
+    background-image: url(../imgs/1656506748556-min.png);
+    background-position: center;
+    background-size: inherit;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 3.5em;
+    display: inline-block;
+    margin: 0em;
+    margin-left: 2em;
+}
+
+.subtitulo {
+    font-size: 1em;
+    margin: 0em;
+    margin-top: 2em;
+    margin-left: 8em;
+}
+
+
+.productos {
+
+    width: 80%;
+    margin: auto;
+}
+
+.productos td {
+    width: 50%;
+    padding: 2em;
+
+}
+
+.productos td p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.productos img {
+    width: 100%;
+    border-radius: 4em;
+}
+
+footer {
+    color: rgb(247, 125, 245);
+    font-size: 20px;
+    line-height: 2em;
+    height: 2em;
+    background-color: black;
+    text-align: center;
+}
