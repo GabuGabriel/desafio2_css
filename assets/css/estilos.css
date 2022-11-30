@@ -11,7 +11,7 @@ header {
     font-size: 2em;
     padding: 2em;
     text-align: left;
-    background-image: url(../imgs/1656506748556-min.png);
+    background-image: url(../imgs/Fotoespacio.jpg);
     background-position: center;
     background-size: inherit;
     background-repeat: no-repeat;
@@ -29,6 +29,7 @@ h1 {
     margin: 0em;
     margin-top: 2em;
     margin-left: 8em;
+    text: center;
 }
 
 
